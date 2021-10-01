@@ -10,6 +10,6 @@ Tendo como alunos proprietários deste projeto: Gustavo Barboza e Jonatha Serpa<
   <li>BrModelo</li>
   </ol><br>
  <h1>Desenvolvedores / Proprietários</h1><br>
- <a hrfef="https://github.com/JonathaEu" target="_blank"> Jonatha Serpa </a>
+ <a href="https://github.com/JonathaEu" target="_blank"> Jonatha Serpa </a>
  
 
