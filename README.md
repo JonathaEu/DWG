@@ -9,7 +9,7 @@ Tendo como alunos proprietários deste projeto: Gustavo Barboza e Jonatha Serpa<
   <li>PowerArchitect</li>
   <li>BrModelo</li>
   </ol>
-  # Desenvolvedores / Proprietários
-  <a https://github.com/JonathaEu> Jonatha Serpa
+  # Desenvolvedores / Proprietários<br>
+  <a> https://github.com/JonathaEu Jonatha Serpa</a>
  
 
