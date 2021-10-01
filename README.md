@@ -8,8 +8,8 @@ Tendo como alunos proprietários deste projeto: Gustavo Barboza e Jonatha Serpa<
   <li>PowerBi</li>
   <li>PowerArchitect</li>
   <li>BrModelo</li>
-  </ol>
+  </ol><br>
  # Desenvolvedores / Proprietários<br>
-  <a https://github.com/JonathaEu> Jonatha Serpa </a>
+  <a> https://github.com/JonathaEu</a>
  
 
