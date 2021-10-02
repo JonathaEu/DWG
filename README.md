@@ -8,6 +8,7 @@ Tendo como alunos proprietários deste projeto: Gustavo Barboza e Jonatha Serpa.
   <li>PowerBi</li>
   <li>PowerArchitect</li>
   <li>BrModelo</li>
+  <li>PostgresSQL</li>
   </ul><br>
  <h1>Desenvolvedores / Proprietários</h1><br>
  <ul>
