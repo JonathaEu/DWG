@@ -1,0 +1,16 @@
+-- Table: public.vendas
+
+-- DROP TABLE public.vendas;
+
+CREATE TABLE IF NOT EXISTS public.vendas
+(
+    codvendas integer NOT NULL,
+    data date,
+    valor money,
+    CONSTRAINT vendas_pkey PRIMARY KEY (codvendas)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public.vendas
+    OWNER to postgres;
