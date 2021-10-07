@@ -1,0 +1,16 @@
+-- Table: public.funcionarios
+
+-- DROP TABLE public.funcionarios;
+
+CREATE TABLE IF NOT EXISTS public.funcionarios
+(
+    codfuncionarios integer NOT NULL,
+    n_vendas numeric(10,0),
+    nome_func character varying(30) COLLATE pg_catalog."default",
+    CONSTRAINT funcionarios_pkey PRIMARY KEY (codfuncionarios)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public.funcionarios
+    OWNER to postgres;
