@@ -19,7 +19,6 @@ This project aims to meet the needs foreseen as requirements in our first semest
   </ul><br>
  <h1>Desenvolvedores<sup>\Dev</sup> / Proprietários<sup>\Owners</sup></h1><br>
  <ul>
-  <li><a href="https://github.com/gstvmuniz" targe="_blank"> Gustavo Barboza</a></li>
   <li><a href="https://github.com/JonathaEu" target="_blank"> Jonatha Serpa</a></li>
  
 
