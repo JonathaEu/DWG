@@ -5,10 +5,14 @@ Este projeto visa corresponder às necessidades previstas como requisitos em nos
 Tendo como alunos proprietários deste projeto: Gustavo Barboza e Jonatha Serpa.<br>
 # Tecnologias / Technologies
 <ul>
-  <li>PowerBi</li>
+  <li>QLikView 12</li>
   <li>PowerArchitect</li>
   <li>BrModelo</li>
   <li>PostgresSQL</li>
+  <li>Microsoft Word</li>
+  <li>Microsoft Excel</li>
+  <li>Microsoft PowerPoint</li>
+  <li>Mircrosoft Visual Studio Code</li>
   </ul><br>
  <h1>Desenvolvedores / Proprietários</h1><br>
  <ul>
