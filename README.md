@@ -17,7 +17,7 @@ This project aims to meet the needs foreseen as requirements in our first semest
   <li>Microsoft PowerPoint</li>
   <li>Mircrosoft Visual Studio Code</li>
   </ul><br>
- <h1>Desenvolvedores<sup>\Dev</sup> / Proprietários<sup>\Owners</sup></h1><br>
+ <h1>Desenvolvedor<sup>\Dev</sup> / Proprietário<sup>\Owner</sup></h1><br>
  <ul>
   <li><a href="https://github.com/JonathaEu" target="_blank"> Jonatha Serpa</a></li>
  
