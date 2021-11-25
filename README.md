@@ -1,6 +1,6 @@
 # JG Fashion
 Simulação de um projeto de Business Intelligence referente a uma loja de roupas.<br>
-<sup>PT-BR</sup>
+<sup>PT-BR</sup><br>
 Este projeto visa corresponder às necessidades previstas como requisitos em nossa primeira avaliação semestral da discplina de Técnica de Inteligência de Negócios/ Business Intelligence (BI), lessionada por Anderson Nascimento na universidade Unigranrio.
 Tendo como alunos proprietários deste projeto: Gustavo Barboza e Jonatha Serpa.<br>
 <sup>En-US</sup>
