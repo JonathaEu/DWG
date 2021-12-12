@@ -11,6 +11,7 @@ This project aims to meet the needs foreseen as requirements in our first semest
   <li>QLikView 12</li>
   <li>PowerArchitect</li>
   <li>BrModelo</li>
+  <li>Power BI</li>
   <li>PostgresSQL</li>
   <li>Microsoft Word</li>
   <li>Microsoft Excel</li>
